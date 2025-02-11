@@ -1,4 +1,4 @@
-# Hello, I'm Aayush Prat!
+# Hello, I'm Aayush Pratheesh!
 
 ![Profile views](https://komarev.com/ghpvc/?username=Aayushprat7)
 
